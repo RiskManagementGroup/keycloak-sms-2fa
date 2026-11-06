@@ -5,7 +5,7 @@
 
     <groupId>dk.rmgroup.keycloak</groupId>
     <artifactId>sms-2fa</artifactId>
-    <version>26.7.3</version>
+    <version>26.8.2</version>
 
     <name>sms-2fa</name>
 
@@ -13,7 +13,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
-        <keycloak.version>26.7.3</keycloak.version>
+        <keycloak.version>26.8.2</keycloak.version>
     </properties>
 
     <dependencyManagement>
